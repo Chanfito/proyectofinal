@@ -10,6 +10,7 @@
         Hide()
         form.Show()
 
+        ' me cago en la puta
     End Sub
 
     ' Boton para limpiar los campos del formulario
